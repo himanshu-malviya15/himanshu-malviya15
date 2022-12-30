@@ -70,6 +70,7 @@ I'm a former Fullstack Software Developer at Ever Co. LTD
 </div> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshumalviya1512" alt="himanshumalviya1512" /></a> </p>
+
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumalviya1512&show_icons=true&locale=en&layout=compact" alt="himanshumalviya1512" /></p>
@@ -78,10 +79,3 @@ I'm a former Fullstack Software Developer at Ever Co. LTD
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshumalviya1512&show_icons=true&locale=en" alt="himanshumalviya1512" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumalviya1512&" alt="himanshumalviya1512" /></p>
-
-<!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshumalviya1512&show_icons=true&locale=en&layout=compact" alt="himanshumalviya1512" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshumalviya1512&show_icons=true&locale=en" alt="himanshumalviya1512" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumalviya1512&" alt="himanshumalviya1512" /></p> -->
