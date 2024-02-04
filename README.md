@@ -4,9 +4,7 @@
 I'm a former Fullstack Software Developer at Ever Co. LTD
 
 
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **JavaScript, and React**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me: **himanshumalviya100@gmail.com**
 
