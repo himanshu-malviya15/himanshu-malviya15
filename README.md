@@ -74,14 +74,13 @@ I'm a Fullstack Software Developer
 
 <br/>  
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu-malviya15" alt="himanshu-malviya15" /></a> </p>
 
 <p align="left">
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-malviya15&show_icons=true&locale=en&layout=compact" alt="himanshu-malviya15" /></p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=himanshu-malviya15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=himanshu-malviya15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-malviya15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-malviya15&show_icons=true&locale=en" alt="himanshu-malviya15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-malviya15&" alt="himanshu-malviya15" /></p>
