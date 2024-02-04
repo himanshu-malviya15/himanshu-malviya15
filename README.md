@@ -17,9 +17,8 @@ I'm a Fullstack Software Developer
 
 </p>
 
-## My Skill Set  
+# 📊 My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
