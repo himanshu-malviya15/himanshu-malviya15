@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Malviya</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 I'm a Fullstack Software Developer 
 
