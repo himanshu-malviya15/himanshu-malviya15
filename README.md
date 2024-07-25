@@ -5,7 +5,7 @@
 I'm a Fullstack Software Developer 
 
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Frontend**, **MERN**
 
 - 📫 How to reach me: **himanshumalviya100@gmail.com**
 
